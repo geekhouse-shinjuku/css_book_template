@@ -8,7 +8,7 @@ author:
 
 <div class="lead">
 
-FlutterとFirebaseについてそれぞれ学んでいきましょう。
+FlutterとFirebaseについてそれぞれ学んでいきましょう。テスト
 
 </div>
 
